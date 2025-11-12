@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100vh;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
+
+header {
+  background-color: #387d7a;
+  padding: 24px;
+}
+
+.header-title {
+  font-size: 4rem;
+  margin: 0;
+  text-align: center;
+  color: #2bc016;
+}
