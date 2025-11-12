@@ -22,3 +22,10 @@ header {
   text-align: center;
   color: #2bc016;
 }
+
+.intro-text {
+  margin: 24px;
+  padding: 16px;
+  background-color: #26a96c;
+  color: #395e66;
+}
